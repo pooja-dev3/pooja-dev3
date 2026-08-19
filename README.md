@@ -1,7 +1,16 @@
 <div align="center">
   
-  <!-- Header Banner / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=👋+Hi!+I'm+Pooja+Kale;💻+Full+Stack+%7C+React+%7C+Next.js+%7C+MERN;🚀+Building+Scalable+%26+Modern+Web+Apps;✨+Turning+Ideas+Into+Interactive+Experiences" alt="Typing SVG Header" />
+  <!-- Header Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=00F0FF&custom_color_2=7928CA&height=180&section=header&text=Pooja%20Kale&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+
+  <br/>
+
+  <!-- Typing SVG (Percent Encoded for GitHub Camo Proxy) -->
+  <a href="https://github.com/pooja-dev3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+MERN+Stack;Building+Scalable+%26+Modern+Web+Apps;Always+Learning+%26+Innovating" alt="Typing SVG Header" />
+  </a>
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://github.com/pooja-dev3">
@@ -94,9 +103,9 @@ const poojaKale = {
     <td width="50%" valign="top">
       <h3 align="center">🎓 GCOEY College Website</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
       </p>
       <p>A comprehensive student-oriented college portal streamlining administrative and academic workflows.</p>
       <ul>
@@ -113,9 +122,9 @@ const poojaKale = {
     <td width="50%" valign="top">
       <h3 align="center">📱 MarketBrand</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
       </p>
       <p>Smart mobile marketing application enabling local businesses to auto-generate promotional content.</p>
       <ul>
@@ -133,9 +142,9 @@ const poojaKale = {
     <td colspan="2" valign="top">
       <h3 align="center">🤖 AI Career Coach</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI_Powered-7928CA?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full_Stack-000000?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Career_Prep-00F0FF?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Powered-7928CA?style=flat-square&logo=openai&logoColor=white" alt="AI Powered" />
+        <img src="https://img.shields.io/badge/Full_Stack-000000?style=flat-square&logo=node.js&logoColor=white" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/Career_Prep-00F0FF?style=flat-square&logo=google&logoColor=white" alt="Career Prep" />
       </p>
       <p align="center">An intelligent career development platform offering personalized interview prep, automated resume analysis, interactive DSA roadmaps, and AI-driven skill evaluation.</p>
       <p align="center">
@@ -151,12 +160,18 @@ const poojaKale = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pooja-dev3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-dev3&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <a href="https://github.com/pooja-dev3">
+    <img src="https://github-readme-stats.vercel.app/api?username=pooja-dev3&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/pooja-dev3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-dev3&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=pooja-dev3&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <a href="https://github.com/pooja-dev3">
+    <img src="https://streak-stats.demolab.com?user=pooja-dev3&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  </a>
 
 </div>
 
@@ -172,11 +187,18 @@ const poojaKale = {
 
 ### 📈 Learning & Tech Journey
 
-```text
- 🌐 HTML / CSS ──► 📜 JavaScript ──► ⚛️ React ──► 🟢 Node.js + Express
-                                                        │
- 🤖 AI & Cloud ◄── 🐍 Django/Python ◄── 📱 React Native ◄── 🍃 MongoDB/MySQL
-```
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> ➔
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> ➔
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> ➔
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> ➔
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> ➔
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> ➔
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> ➔
+    <img src="https://img.shields.io/badge/AI_%26_Cloud-7928CA?style=flat-square&logo=openai&logoColor=white" />
+  </p>
+</div>
 
 ---
 
